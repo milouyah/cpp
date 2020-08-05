@@ -27,3 +27,7 @@ Extracts characters from is and stores them into str until the delimitation char
 ### (c++) stringstream
 
 [stringstream in C++ and its applications](https://www.geeksforgeeks.org/stringstream-c-applications/)
+
+
+## References
+[C++ Data Structures and Algorithm Design Principles](https://subscription.packtpub.com/book/programming/9781838828844)
